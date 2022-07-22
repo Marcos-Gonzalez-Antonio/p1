@@ -1,0 +1,51 @@
+html,
+body {
+    margin: 5px;
+    
+
+    
+}
+.input1 {
+    border-radius: 1px;
+}
+.input2 {
+    border-radius: 1px;
+}
+
+.btn1 {
+  
+  background-color: #1e74f4;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  width: 80px;
+  height: 28px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 1px;
+  border-radius: 10px;
+}
+.btn2 {
+    background-color: #1ea6f4;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    width: 80px;
+    height: 28px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    border-radius: 10px;
+}
+.btn3 {
+    background-color: #f41e65;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    width: 80px;
+    height: 28px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 1px;
+    border-radius: 10px;
+}
